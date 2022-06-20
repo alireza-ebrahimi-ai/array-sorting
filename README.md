@@ -1,1 +1,1 @@
-# sorting-algorithm
+# sorting array using C++
